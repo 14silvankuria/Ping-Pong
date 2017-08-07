@@ -1,0 +1,27 @@
+.Pong {
+  text-align: center;
+  background-color: goldenrod;
+  background-size: 50%;
+  padding-bottom: 4%;
+  padding-top: 4%;
+}
+h1{
+  font-size: 120px;
+}
+.col-md-4 {
+  background-color: lightgreen;
+  float: left;
+  padding-bottom: 8%;
+}
+#p1{
+  color: goldenrod;
+  font-size: 150%;
+}
+#p2{
+  color: white;
+  font-size: 80%;
+}
+.col-md-8 {
+  background-color: lightgray;
+  padding-bottom: 9%;
+}
